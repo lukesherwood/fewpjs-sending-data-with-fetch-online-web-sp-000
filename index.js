@@ -1,4 +1,5 @@
 // Add your code here
+<<<<<<< HEAD
 function submitData(name, email) {
 
     let formData = {
@@ -25,4 +26,8 @@ function submitData(name, email) {
   .catch( function ( error ) {
     document.body.innerHTML = error.message
   } )
+=======
+let submitData = {
+
+>>>>>>> 4a3eafee5b5a12321331bb208fa3ecc346b5ccd8
 }
